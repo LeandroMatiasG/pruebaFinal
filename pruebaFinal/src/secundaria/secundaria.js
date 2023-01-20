@@ -1,7 +1,7 @@
 import '../style.css'
 import javascriptLogo from '../../javascript.svg'
 import viteLogo from '../../vite.svg'
-import {showResult} from '../funciones/ShowResult'
+import {showResult} from '../ShowResult'
 
 
 console.log("hola estoy en pagina 2")
@@ -13,7 +13,7 @@ document.querySelector('#app').innerHTML = `
   <a href="https://vitejs.dev" target="_blank">
     <img src="${viteLogo}" class="logo" alt="Vite logo" />
   </a>
-  <h1>Hello Lucho!</h1>
+  <h1>Hello Lean!</h1>
     <h1>Calculadora</h1>
     <input type="text" id="numero1" placeholder="inserte numero 1">
     <input type="text" id="numero2" placeholder="inserte numero 2">

@@ -1,7 +1,7 @@
 import './style.css'
 import javascriptLogo from '../javascript.svg'
 import viteLogo from '../vite.svg'
-import {showResult} from './funciones/ShowResult'
+import {showResult} from './ShowResult'
 
 
 
