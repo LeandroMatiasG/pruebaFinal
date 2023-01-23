@@ -13,7 +13,7 @@ document.querySelector('#app').innerHTML = `
   <a href="https://vitejs.dev" target="_blank">
     <img src="${viteLogo}" class="logo" alt="Vite logo" />
   </a>
-  <h1>para vos lucho!!!</h1>
+  <h1>Vamos carajo!!!!!</h1>
     <h1>Calculadora</h1>
     <input type="text" id="numero1" placeholder="inserte numero 1">
     <input type="text" id="numero2" placeholder="inserte numero 2">
