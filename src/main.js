@@ -13,7 +13,7 @@ document.querySelector('#app').innerHTML = `
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
   </a>
-  <h1>Hello Pía!</h1>
+  <h1>Genia Pia</h1>
     <h1>Calculadora</h1>
     <input type="text" id="numero1" placeholder="inserte numero 1">
     <input type="text" id="numero2" placeholder="inserte numero 2">
